@@ -1,2 +1,4 @@
-# cs09
+i# cs09
 github scnd pratical
+my fav practical
+
